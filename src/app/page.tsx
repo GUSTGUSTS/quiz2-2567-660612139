@@ -20,11 +20,7 @@ export default function Home() {
         {/* Comment Example */}
         
         <Comment
-            userImagePath="/profileImages/lisa.jpg"
-            username="Lisa"
-            commentText="จริงค่า"
-            likeNum= {999}
-            replies= {true}
+            
           />
 
         {/* Reply Example */}

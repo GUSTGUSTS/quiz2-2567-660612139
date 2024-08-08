@@ -2,12 +2,7 @@
 
 
 export default function Comment(props:any){
- // userImagePath,
- // username,
- // commentText,
- // likeNum,
- // replies,
-//}:CommentProps) {
+
   return (
     <div>
       <div className="d-flex gap-2 my-2">
